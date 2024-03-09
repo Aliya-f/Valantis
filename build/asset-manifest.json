@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2bebf6c.css",
+    "main.js": "/static/js/main.e3c9c902.js",
+    "static/js/787.ca171f4b.chunk.js": "/static/js/787.ca171f4b.chunk.js",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/promo__logo.svg": "/static/media/promo__logo.aca873625017036ab7060c65e85ff7d8.svg",
+    "static/media/logo.svg": "/static/media/logo.aaf780b9c814c6fbad77bf0b9d816802.svg",
+    "index.html": "/index.html",
+    "static/media/icon__COLOR_icon-color.svg": "/static/media/icon__COLOR_icon-color.1f9d48237e00ca6339ea.svg",
+    "static/media/icon__COLOR_icon-main.svg": "/static/media/icon__COLOR_icon-main.297a8e2a64789d4bbbf3.svg",
+    "static/media/icon__like-on.svg": "/static/media/icon__like-on.bd192f4a9ac7eb4b3b82.svg",
+    "static/media/icon__like-off.svg": "/static/media/icon__like-off.2532ba1428f56de1eb6f.svg",
+    "static/media/icon__deletefilm.svg": "/static/media/icon__deletefilm.031b0a3adf1aabea4436.svg",
+    "static/media/burger-menu.svg": "/static/media/burger-menu.3717537c2dea16add7f16cf0cf6914d4.svg",
+    "static/media/link.svg": "/static/media/link.21d4a41cbd169bf0c5fe.svg",
+    "static/media/close-menu.svg": "/static/media/close-menu.7ac1e3b2b11f5ade1f964e3720f5988d.svg",
+    "main.e2bebf6c.css.map": "/static/css/main.e2bebf6c.css.map",
+    "main.e3c9c902.js.map": "/static/js/main.e3c9c902.js.map",
+    "787.ca171f4b.chunk.js.map": "/static/js/787.ca171f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2bebf6c.css",
+    "static/js/main.e3c9c902.js"
+  ]
+}
